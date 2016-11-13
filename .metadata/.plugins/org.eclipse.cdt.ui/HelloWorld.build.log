@@ -1,0 +1,6 @@
+15:25:05 **** Incremental Build of configuration Debug for project HelloWorld ****
+make all 
+make: *** No rule to make target `src/HelloWorld.o', needed by `HelloWorld'.  Stop.
+
+15:25:05 Build Finished (took 62ms)
+

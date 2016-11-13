@@ -1,0 +1,18 @@
+#include "libhersh.h"
+
+const char* getString(char *str) {
+	return str;
+}
+int addNum(int a, int b) {
+	return a + b;
+}
+int subNum(int a, int b) {
+	return a + b;
+}
+int multNum(int a, int b) {
+	return a * b;
+}
+
+// ran: "gcc -o libhersh.o -c libhersh.c" in terminal to
+//  create object file after creating libhersh.c and libhersh.h;
+//  then made test.c to test including and using library functions

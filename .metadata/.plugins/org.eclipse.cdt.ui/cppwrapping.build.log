@@ -1,0 +1,15 @@
+16:04:13 **** Incremental Build of configuration Debug for project cppwrapping ****
+make all 
+Building file: ../src/libhersh.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/libhersh.d" -MT"src/libhersh.d" -o "src/libhersh.o" "../src/libhersh.c"
+Finished building: ../src/libhersh.c
+ 
+Building target: cppwrapping
+Invoking: MacOS X C++ Linker
+g++  -o "cppwrapping"  ./src/cppwrapping.o ./src/libhersh.o   
+Finished building target: cppwrapping
+ 
+
+16:04:14 Build Finished (took 153ms)
+

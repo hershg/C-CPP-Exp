@@ -1,0 +1,15 @@
+//============================================================================
+// Name        : cppwrapping.cpp
+// Author      : Hersh Godse
+// Version     :
+// Copyright   : 
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "Hello World from Hersh!" << endl; // prints Hello World from Hersh!
+	return 0;
+}

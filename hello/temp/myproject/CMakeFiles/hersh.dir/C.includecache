@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/HershYesh/EclipseProjects/z/myproject/libhersh.c
+libhersh.h
+/Users/HershYesh/EclipseProjects/z/myproject/libhersh.h
+
+/Users/HershYesh/EclipseProjects/z/myproject/libhersh.h
+
